@@ -1,5 +1,5 @@
-<H3>NAME : Syed Abdul Wasih H</H3>
-<H3>Reg No: 212221240057</H3>
+<H3>NAME : RAGUL VK H</H3>
+<H3>Reg No: 212221240043</H3>
 <H3>EX. NO.7</H3>
 <H3>DATE:27.04.2024</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
